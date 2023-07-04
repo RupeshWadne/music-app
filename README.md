@@ -1,4 +1,4 @@
-# AI-Image-generation-App
+# Music App
 
 ## About the project
 
